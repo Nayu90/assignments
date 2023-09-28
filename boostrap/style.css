@@ -1,0 +1,14 @@
+#firstrow{
+    display: flex;
+    justify-content:space-around ;
+}
+
+#i1{
+    height: 1500px;
+    width: 1500px;
+}
+
+#img{
+    padding-top: 200px;
+    padding-left: 200px;
+}
